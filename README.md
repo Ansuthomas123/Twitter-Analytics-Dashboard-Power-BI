@@ -1,2 +1,4 @@
 # Twitter-Analytics-Dashboard-Power-BI
 Internship Project Work
+The Twitter Data Analytics project using Power BI has been a highly insightful and technically enriching experience, bridging the gap between raw social media data and meaningful business intelligence. From importing and transforming tweet data to designing a dynamic dashboard with user-driven interactivity, the project effectively demonstrated how real-world analytics workflows are implemented using modern BI tools.
+ Power BI is a powerful business intelligence tool by Microsoft that enables users to import, transform, analyze, and visualize data in interactive dashboards. It provides robust support for data modeling, DAX (Data Analysis Expressions), and dynamic filters, making it suitable for handling social media data analytics.
